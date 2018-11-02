@@ -34,3 +34,6 @@ def randomlistgenerator(num):
 
 anum = int(input("Please input a number."))
 print(quicksort(randomlistgenerator(anum)))
+# I wrote this in response to a video I saw on TedEd concerning the fastest way to sort a series of books. 
+# Of the three methods they used in the video, this is the one I liked the most, so I decided I'd try and work it out myself.
+# Friday, November 2, 2018
